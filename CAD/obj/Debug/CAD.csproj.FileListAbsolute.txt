@@ -1,0 +1,6 @@
+c:\users\mayra.acevedo.faro\documents\visual studio 2012\Projects\WCF_Datos\CAD\bin\Debug\CAD.dll.config
+c:\users\mayra.acevedo.faro\documents\visual studio 2012\Projects\WCF_Datos\CAD\bin\Debug\CAD.dll
+c:\users\mayra.acevedo.faro\documents\visual studio 2012\Projects\WCF_Datos\CAD\bin\Debug\CAD.pdb
+c:\users\mayra.acevedo.faro\documents\visual studio 2012\Projects\WCF_Datos\CAD\obj\Debug\CAD.csprojResolveAssemblyReference.cache
+c:\users\mayra.acevedo.faro\documents\visual studio 2012\Projects\WCF_Datos\CAD\obj\Debug\CAD.dll
+c:\users\mayra.acevedo.faro\documents\visual studio 2012\Projects\WCF_Datos\CAD\obj\Debug\CAD.pdb

@@ -1,0 +1,8 @@
+c:\users\mayra.acevedo.faro\documents\visual studio 2012\Projects\WCF_Datos\WCF\bin\Debug\WCF.dll.config
+c:\users\mayra.acevedo.faro\documents\visual studio 2012\Projects\WCF_Datos\WCF\bin\Debug\WCF.dll
+c:\users\mayra.acevedo.faro\documents\visual studio 2012\Projects\WCF_Datos\WCF\bin\Debug\WCF.pdb
+c:\users\mayra.acevedo.faro\documents\visual studio 2012\Projects\WCF_Datos\WCF\obj\Debug\WCF.csprojResolveAssemblyReference.cache
+c:\users\mayra.acevedo.faro\documents\visual studio 2012\Projects\WCF_Datos\WCF\obj\Debug\WCF.dll
+c:\users\mayra.acevedo.faro\documents\visual studio 2012\Projects\WCF_Datos\WCF\obj\Debug\WCF.pdb
+c:\users\mayra.acevedo.faro\documents\visual studio 2012\Projects\WCF_Datos\WCF\bin\Debug\CAD.dll
+c:\users\mayra.acevedo.faro\documents\visual studio 2012\Projects\WCF_Datos\WCF\bin\Debug\CAD.pdb

@@ -1,0 +1,5 @@
+c:\users\mayra.acevedo.faro\documents\visual studio 2012\Projects\WCF_Datos\Web\bin\Web.dll
+c:\users\mayra.acevedo.faro\documents\visual studio 2012\Projects\WCF_Datos\Web\bin\Web.pdb
+c:\users\mayra.acevedo.faro\documents\visual studio 2012\Projects\WCF_Datos\Web\obj\Debug\Web.csprojResolveAssemblyReference.cache
+c:\users\mayra.acevedo.faro\documents\visual studio 2012\Projects\WCF_Datos\Web\obj\Debug\Web.dll
+c:\users\mayra.acevedo.faro\documents\visual studio 2012\Projects\WCF_Datos\Web\obj\Debug\Web.pdb
